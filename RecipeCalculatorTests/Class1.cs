@@ -10,7 +10,7 @@ namespace RecipeCalculatorTests
 {
     [TestFixture]
     public class Class1
-    {
+    {//https://github.com/alxm0342/RecipeCalculator.git
 
         const double DEFAULT_UNIT_SIZE = 1.0;
         [Test]
